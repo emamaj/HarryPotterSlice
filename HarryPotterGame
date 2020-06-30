@@ -1,0 +1,7 @@
+print("Czesc jak masz na imie?")
+imie = input()
+print("Czesc", imie, "ile masz lat")
+wiek = input()
+print("Z którego peronu do Hogwartu?")
+peron = input()
+print("W wieku", wiek, "chyba nie ma już sensu jechać do Hogwartu z peronu", peron)
